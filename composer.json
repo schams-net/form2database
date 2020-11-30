@@ -1,0 +1,9 @@
+{
+    "name": "schams-net/form2database",
+    "description": "TYPO3 Form Finisher: Store submitted data into a database table",
+    "type": "typo3-cms-extension",
+    "require": {
+        "typo3/cms-core": "^10.4",
+        "typo3/cms-form": "^10.4"
+    }
+}

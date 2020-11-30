@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2020-12-01T00:00:00Z" product-name="form2database">
+        <header/>
+        <body>
+            <trans-unit id="tx_form2database_domain_model_forms.tableName" xml:space="preserve">
+                <source>Form Submissions</source>
+            </trans-unit>
+            <trans-unit id="tx_form2database_domain_model_forms.firstName" xml:space="preserve">
+                <source>First name</source>
+            </trans-unit>
+            <trans-unit id="tx_form2database_domain_model_forms.lastName" xml:space="preserve">
+                <source>Last name</source>
+            </trans-unit>
+            <trans-unit id="tx_form2database_domain_model_forms.email" xml:space="preserve">
+                <source>Email address</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
